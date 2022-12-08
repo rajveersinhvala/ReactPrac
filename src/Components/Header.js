@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <>
       <nav>
-        <h1>TITLE-IT</h1>
+        <h1>TIdTLE-ITwewe</h1>
         <main>
           <HashLink to={"/#home"}>Home</HashLink>
           <Link to={"/contact"}>Contact</Link>
